@@ -12,3 +12,5 @@ https://rvanooyen.github.io/run-buddy/
 
 ## Contribution
 Made with ❤ by Robert Vanooyen
+
+### @2019 Run Buddy, Inc
